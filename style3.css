@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    font: bold 19px sans-serif;
+}
+
+p{
+    font: 16px helvetica;
+}
+
+time{
+    font: 12px helvetica;
+}
+
+header, section, footer, nav, aside, article{
+    display: block;
+}
+
+body{
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/822/349/large_2x/abstract-lines-and-dots-connect-on-white-background-technology-connection-digital-data-and-big-data-concept-vector.jpg);
+}
+
+.agrupar{
+    width: 960px;
+    margin: 15px auto;
+   background-color:#d6dfe7;
+}
+
+.cabecera{
+    background-color: #041242;
+    padding: 5px;
+}
+
+.cabecera img{
+    height: 65px;
+    width: 400px;
+    margin: 15px;
+}
+
+.menu{
+   background-color:#59b5eb;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font: 15px helvetica;
+    display: inline-block;
+}
+
+article{
+    background:white;
+    padding: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+article footer{
+    text-align: center;
+    font: 12px helvetica;   
+}
+
+.seccion{
+    margin: 20px;
+    width: 920px;
+}
+
+.pie{
+    clear: both;
+    padding: 20px;
+    background-color:#195494;
+    font: bold 15px helvetica;
+    color: white;
+}
+
+
+
+
+
